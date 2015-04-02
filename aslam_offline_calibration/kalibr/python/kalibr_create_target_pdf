@@ -207,4 +207,3 @@ if __name__ == "__main__":
     
     if parsed.do_eps:
         c.writeEPSfile(parsed.output)
-    
